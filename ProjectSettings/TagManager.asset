@@ -6,6 +6,7 @@ TagManager:
   tags:
   - hand
   - head
+  - effect
   layers:
   - Default
   - TransparentFX
