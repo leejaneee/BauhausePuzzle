@@ -201,6 +201,7 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+<<<<<<< Updated upstream
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -217,6 +218,8 @@ PlayerSettings:
   - {fileID: 11400000, guid: 50dfb8158dcb97a4a8aa220d2a9b7803, type: 2}
   - {fileID: 0}
   - {fileID: -1144292382641123470, guid: 0f6f418bf5871b044b44b7809f15e540, type: 2}
+=======
+>>>>>>> Stashed changes
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
